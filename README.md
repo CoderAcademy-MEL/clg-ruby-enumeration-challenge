@@ -1,1 +1,0 @@
-# clg-ruby-enumeration-challenge
